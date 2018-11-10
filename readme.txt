@@ -1,2 +1,0 @@
-wo shi xck
-lalala
