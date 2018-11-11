@@ -1,0 +1,4 @@
+com\family\service\HouseholdGoodsService.class
+com\family\controller\HouseholdGoodsController.class
+com\family\redis\adapter\RedisDcAdapter.class
+com\family\redis\CommonRAO.class
